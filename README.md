@@ -40,3 +40,5 @@ https://en.wikipedia.org/wiki/OS-level_virtualization
 - Rsync
 - [Partclone.org](https://partclone.org/)
 - Gluster
+- Ceph
+- [MARS = Multiversion Asynchronous Replicated Storage](https://schoebel.github.io/mars/)

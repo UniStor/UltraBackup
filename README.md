@@ -8,7 +8,7 @@ List of software which we took inspiration from: Not all features are developed 
 https://www.techsupportalert.com/the-must-have-backup-tools-for-your-pc-or-hard-drive/
 https://www.techsupportalert.com/the-ultimate-list-of-freeware-utilities/
 
-## Backup
+## Backup.Software
 - Clonezilla - ISO
 - Redo Backup & Recovery
 - Areca Backup (discontinued)
@@ -22,3 +22,6 @@ https://www.techsupportalert.com/the-ultimate-list-of-freeware-utilities/
 - https://en.wikipedia.org/wiki/Application_virtualization
 - https://www.techtarget.com/searchvirtualdesktop/definition/app-virtualization
 - https://www.scalecomputing.com/resources/what-is-application-virtualization
+
+## OS Container
+https://en.wikipedia.org/wiki/OS-level_virtualization

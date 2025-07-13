@@ -50,8 +50,9 @@ https://en.wikipedia.org/wiki/OS-level_virtualization
 - [Content-Addressable Storage](https://en.wikipedia.org/wiki/Content-addressable_storage)
 
 
-# Revenue? If it's Free & Open-Source (GPL) How do we support the project?
-**A Thriving & *Safe* Cryptocurrency Ecosystem**
+# Revenue?
+**If it's Free & Open-Source (GPL) How do we support the project?**
+## UniCoin - A Thriving & *Safe* Cryptocurrency Ecosystem
 We make money by refering people to to products using our cryptocurrency ecosystem: Storage smart contracts are traded on UniExchange which we own and take market-maker **Bid/Ask Spread** - this is our primary revenue source.
 
 ## Storage Smart-Contracts

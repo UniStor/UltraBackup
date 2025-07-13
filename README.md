@@ -12,6 +12,7 @@ List of software which we took inspiration from: Not all features are developed 
 
 ## Backup.Software
 - Clonezilla - ISO
+- [FOG project](https://fogproject.org) https://wiki.fogproject.org/wiki/index.php/Backing_up_FOG
 - Redo Backup & Recovery
 - Areca Backup (discontinued)
 - [EaseUS Todo Backup](https://www.easeus.com/backup-software/tb-free.html) - Windows
@@ -38,3 +39,4 @@ https://en.wikipedia.org/wiki/OS-level_virtualization
 ## Libraries
 - Rsync
 - [Partclone.org](https://partclone.org/)
+- Gluster

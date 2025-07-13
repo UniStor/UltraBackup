@@ -42,3 +42,25 @@ https://en.wikipedia.org/wiki/OS-level_virtualization
 - Gluster
 - Ceph
 - [MARS = Multiversion Asynchronous Replicated Storage](https://schoebel.github.io/mars/)
+- [Git Large File Storage (LFS)](https://git-lfs.com/)
+- [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)
+- [Perkeep](https://perkeep.org/)
+
+## Concept:
+- [Content-Addressable Storage](https://en.wikipedia.org/wiki/Content-addressable_storage)
+
+
+# Revenue? If it's Free & Open-Source (GPL) How do we support the project?
+**A Thriving & *Safe* Cryptocurrency Ecosystem**
+We make money by refering people to to products using our cryptocurrency ecosystem: Storage smart contracts are traded on UniExchange which we own and take market-maker **Bid/Ask Spread** - this is our primary revenue source.
+
+## Storage Smart-Contracts
+We recommend UniStor for short term storage, and [EternalFS - Global Immutable File store](https://github.com/EternalFS) managed by an Endowment  for long term "memories" perservation & Archiving, potentially their Life's most important memories. But UltraBackup is pluggable & had a modules/extensions framwork so you can use any cloud storage provider you like.
+
+## Part of a Whole: Symbiotic A.I.
+We also want people to try out Uni.Key for security, LifeGraph for organization, & Symbiotic.AI for full suite of A.I. helper tools - which all requires decentralized cloud to offer their full capabilities.
+
+## Market. eCommerce revenue
+Finally:
+- We have a DAO & decentralized community of hardware enthusiasts who Test & Sell Refurbished Hard drives & Tape Storage using industry best practaces & list them for sale on: https://Market.UniSocial.net/Hw/Storage eCommerse store. This is a traditional retail business model. 
+- We can make affiliate commissions on other retailers: like NewEgg.com, Amazon, Ebay selling similar storage Hardware products.
